@@ -1,0 +1,31 @@
+[{
+  "_id": 100,
+  "name": "试题",
+  "type": 0,
+  "hash": "easdsea1i8...",
+  "uploader": 1120202070,
+  "time": {
+    "$date": "2023-10-11T00:00:00.000Z"
+  },
+  "data": {
+    "$binary": {
+      "base64": "",
+      "subType": "00"
+    }
+  }
+},{
+  "_id": 101,
+  "name": "",
+  "type": 1,
+  "hash": "1efsea1i8...",
+  "uploader": 1120202070,
+  "time": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "data": {
+    "$binary": {
+      "base64": "",
+      "subType": "00"
+    }
+  }
+}]

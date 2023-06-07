@@ -1,0 +1,15 @@
+[{
+  "_id": 100,
+  "name": "C语言",
+  "subject_id": 100,
+  "describe": "讲授C语言入门知识，是大多数学生的第一门编程课。",
+  "statue": 0,
+  "teachers": ""
+},{
+  "_id": 170,
+  "name": "计算机系统导论",
+  "subject_id": 101,
+  "describe": "从各层面介绍计算机系统。",
+  "statue": 0,
+  "teachers": "张艳"
+}]

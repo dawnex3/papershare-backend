@@ -1,0 +1,36 @@
+[{
+  "_id": 1120202000,
+  "name": "小明",
+  "password": "123456",
+  "type": 2,
+  "isbanned": false,
+  "photo": {
+    "$binary": {
+      "base64": "MQ==",
+      "subType": "00"
+    }
+  },
+  "subscriptions": [
+    103,
+    101
+  ],
+  "favorites": [
+    100
+  ]
+},{
+  "_id": 1120202078,
+  "name": "小红",
+  "password": "123456",
+  "type": 1,
+  "isbanned": false,
+  "photo": {
+    "$binary": {
+      "base64": "MQ==",
+      "subType": "00"
+    }
+  },
+  "subscriptions": [],
+  "favorites": [
+    100
+  ]
+}]
